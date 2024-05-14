@@ -1,0 +1,4 @@
+ftp:
+  connection:
+    username: one
+    password: 1234
